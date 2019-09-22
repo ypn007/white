@@ -35,6 +35,7 @@ RED='\033[0;31m'
 YO='\033[0;33m'
 BLU='\033[0;34m'
 
+pkg install python2
 pkg install python2.7
 
 echo "${RED}           ░▐█▀█▄░▐█▀█▄▒▐█▀▀█▌▒▄█▀▀█"
