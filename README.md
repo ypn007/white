@@ -1,2 +1,5 @@
 # white
-Hacking Tools For Termux 
+#Hacking Tools For Termux 
+#Install For Termux
+pkg install git
+git clone 
